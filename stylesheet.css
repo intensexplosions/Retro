@@ -1,3 +1,11 @@
  body {
   background-image: url('background.jpg');
 }
+
+ h1 {
+  font-family: "Pressstart2p", serif;
+}
+
+ p {
+  font-family: "vt323", monospace;
+}

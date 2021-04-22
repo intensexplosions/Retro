@@ -23,3 +23,6 @@
   body {
    background-image: url('background.jpg');
 }
+
+  .color-box {float:left; background-color:rgba(0, 0, 255, 0.7); padding:5%;
+}
